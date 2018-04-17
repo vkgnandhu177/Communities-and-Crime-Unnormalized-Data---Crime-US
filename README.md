@@ -1,0 +1,2 @@
+# Communities-and-Crime-Unnormalized-Data---Crime-US
+The course project uses the data set: Communities and Crime Unnormalized Data Set from  http://archive.ics.uci.edu/ml/machine-learning-databases/00211/ Data description can be found here: http://archive.ics.uci.edu/ml/datasets/communities+and+crime+unnormalized#  This data set has 147 attributes and 2215 instances or observations.  This data set is relatively recent, March 2, 2011.  The data set will require pre-processing before beginning data mining.  For example, missing data is designated by a “?”.  
